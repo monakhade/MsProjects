@@ -18,4 +18,5 @@ public class Employee
 	private String eName;
 	private String eAddress;
 	private float eSalary;
+	private int ecount
 }
